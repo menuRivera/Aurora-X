@@ -1,6 +1,6 @@
 {
-    "name": "aurora-x",
-    "displayName": "Aurora X",
+    "name": "aurora-x-custom",
+    "displayName": "Aurora X Custom",
     "description": "Minimalistic looking based on Material Theme",
     "icon": "images/icon.png",
     "version": "2.0.1",
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Aurora X",
+                "label": "Aurora X Custom",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Aurora X-color-theme.json"
             }
