@@ -1,6 +1,6 @@
 {
-    "name": "aurora-x-custom",
-    "displayName": "Aurora X Custom",
+    "name": "aurora-x",
+    "displayName": "Aurora X",
     "description": "Minimalistic looking based on Material Theme",
     "icon": "images/icon.png",
     "version": "2.0.1",
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Aurora X Custom",
+                "label": "Aurora X",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Aurora X-color-theme.json"
             }
@@ -29,10 +29,11 @@
     ],
     "license": "MIT",
     "maintainers": [
-        "Alvaro Marques <marquesramosalvaro@icloud.com>"
+        "Alvaro Marques <marquesramosalvaro@icloud.com>",
+        "Manuel Rivera <menu.rivera@gmail.com>
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/marqu3s10/Aurora-X.git"
+        "url": "https://github.com/menuRivera/Aurora-X.git"
     }
 }
